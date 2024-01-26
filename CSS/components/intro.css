@@ -1,12 +1,4 @@
-/* Nav-Bar */ 
-
-
-  
-  /* Nav-Bar */ 
-
-  /* intro */ 
-
-  .container-custom {
+.container-custom {
     margin-top: 300px; 
     margin-right: 70px; 
     margin-bottom: 300px; 
@@ -44,30 +36,3 @@
     margin-right:10px;
     margin-top: 20px;
   }
-
-  /* intro */ 
-
-
-   /* projetos */  
-
-   h4 {
-    color: white;
-}
-
-
-/* projetos
-
-h4 {
-    color: white;
-}
-
-.card-text {
-    color: white
-}
-
-.card {
-    border-style: none;
-}
-
- projetos */ 
-
